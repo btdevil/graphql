@@ -1,0 +1,9 @@
+{
+  "name": "graphql",
+  "version": "0.0.0",
+  "description": "graphql",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
